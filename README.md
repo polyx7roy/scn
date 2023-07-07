@@ -72,8 +72,6 @@ If you have any issues or questions about this token contract, please feel free 
 
 ## Disclaimer
 
-## Disclaimer
-
 This token represents ownership of physical silver stored in a secure vault. However, token holders are responsible for their own security. Please be careful with your private keys and always use secure wallets.
 
 The Silverbyph token does not represent a share or stake in Silverbyph, it does not grant the holder voting rights, and it does not pay dividends or other returns. Thus, it does not act as a form of security. Furthermore, the token acts as an integral component of our Know Your Customer (KYC) process. All token holders must comply with our KYC procedures. Non-compliance may result in access to certain functionalities of the token being limited or revoked.
